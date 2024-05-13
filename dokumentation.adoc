@@ -1,0 +1,8 @@
+# Dokumentation Lab 07: Android
+
+== Schritt 1:
+
+* Neues Projekt erstellt
+* https://htl-leonding-college.github.io/android-reactive-java-todo/ dabei befolgt
+* Error: `Kotlin indexes are corrupted`
+** Fix: `File -> Invalidate Caches / Restart... -> Invalidate and Restart`
